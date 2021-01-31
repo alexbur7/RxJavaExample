@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RxJavaExample</string>
+    <string name="url_database">https://console.firebase.google.com/u/0/project/yes-u-du-2/database/yes-u-du-2-default-rtdb/data</string>
+    <string name="download_done">Загрузка завершена</string>
+</resources>
